@@ -1,0 +1,3 @@
+ls=list(map(int,input().split()))
+out=list(filter(None,ls))
+print(out)
